@@ -27,3 +27,5 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Oreo Cat](https://img.shields.io/badge/Oreo_Cat-FF6F61?style=for-the-badge&logo=cat&logoColor=white)](https://github.com)
+
+<img width="630" height="738" alt="image" src="https://github.com/user-attachments/assets/2b2007c1-3485-4440-ae9f-dfe3217ea2d6" />
