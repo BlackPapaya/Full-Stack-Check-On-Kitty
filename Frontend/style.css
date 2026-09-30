@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+}
+
+img  {
+    width: 700px;
+    height: 500px;
+}
+
+button {
+    display:block;
+    margin: 24px 0;
+    width: 150px;
+    height: auto;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+
+}
