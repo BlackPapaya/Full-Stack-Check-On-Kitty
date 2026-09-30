@@ -8,7 +8,7 @@ document.getElementById("rndBtn").addEventListener("click", async () => {
         const daten = await response.json(); 
         console.log(daten);
        
-        document.getElementById("catOutput").innerText = "Oreo says: I am " + daten.status + "!";
+        document.getElementById("catOutput").innerText = "Oreo says: I  " + daten.status + "!";
         
     } catch (error) {
         console.error("Fehler beim Abrufen der Katzen-Stimmung:", error);

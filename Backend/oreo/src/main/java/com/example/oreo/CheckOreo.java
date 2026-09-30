@@ -12,7 +12,7 @@ import java.util.Random;
 @CrossOrigin(origins = "*")
 public class CheckOreo {
 
-    private final List<String> catStates = List.of("hungry", "thirsty", "bored", "wants to get pet", "play");
+    private final List<String> catStates = List.of("am hungry", "am thirsty", "am bored", "wanna get pet", " wanna play", " wanna bite you RAAHHH");
 
     @GetMapping("/endpoint")
     public Map<String, String> getCatStatus() {
